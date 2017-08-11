@@ -18,7 +18,7 @@
         android:layout_height="150dp">
 
         <TextView
-            android:text="硅谷社交"
+            android:text="社交"
             android:textSize="30dp"
             android:gravity="center"
             android:layout_width="match_parent"
